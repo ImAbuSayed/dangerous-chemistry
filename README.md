@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan de vich kaisa nasha tu pa leya
+> Sade dil nu kyu apna tu bana leya
+> Raatan di neend udd gayi ae tere karke
+> Jaan kaddi jandi ae husan dikha ke
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
