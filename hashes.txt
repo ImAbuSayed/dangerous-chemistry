@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dangerous Chemistry
+
+This log tracks the cryptographic history and versioning for the song **Dangerous Chemistry** (dangerous-chemistry).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T15:21:10.644850 | `v1` | `63d84998250545c3099b034d185c08d55988ef01810ac0d4eeed1c4ee673ce1a` | `405e5e8a482eef494273215e789c9aa66dc7be444b5b875f7c6f1e766cc6d727` | `2026-05-18_dangerous-chemistry-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

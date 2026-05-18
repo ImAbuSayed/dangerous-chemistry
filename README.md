@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dangerous-chemistry/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Dangerous Chemistry](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dangerous-chemistry/) |
+| **Get License** | [Music Rights & Licensing for Dangerous Chemistry](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dangerous-chemistry/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `63d84998250545c3099b034d185c08d55988ef01810ac0d4eeed1c4ee673ce1a` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
